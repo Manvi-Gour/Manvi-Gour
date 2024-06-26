@@ -45,10 +45,7 @@
 
 ###
 
-
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=sammorozov&style=for-the-badge&color=orange" alt=""/>
-</div>
+![Snake SVG](https://github.com/Manvi-Gour/Manvi-Gour/blob/main/github-snake.svg)
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
