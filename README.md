@@ -8,7 +8,7 @@
     <br><br>
 <!--     My journey encompasses a blend of AI model development, data visualization, and problem-solving. I thrive in collaborative environments, where ideas flow freely, and innovation knows no bounds.
     <br><br> -->
-    Let's connect!
+<!--     Let's connect! -->
 </p>
 
 ###
