@@ -1,4 +1,4 @@
-<h1 align="left">Hey!👋 What's up? I am Manvi!</h1>
+<h1 align="left">Hey!👋 What's up?</h1>
 
 ###
 
@@ -7,7 +7,7 @@
 <!--     I'm on a mission to unravel the mysteries of data and AI. I'm always eager to explore new horizons.
     <br><br>
 <!--     My journey encompasses a blend of AI model development, data visualization, and problem-solving. I thrive in collaborative environments, where ideas flow freely, and innovation knows no bounds.
-    <br><br> --> -->
+    <br><br> -->
     Let's connect!
 </p>
 
