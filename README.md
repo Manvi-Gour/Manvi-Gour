@@ -4,11 +4,11 @@
 
 <h2 align="center" style="font-size: 28px; font-weight: 300;">Passionate AI and Data Science Enthusiast</h2>
 <p style="font-size: 18px; font-weight: 300; line-height: 1.5;">
-    I'm on a mission to unravel the mysteries of data and AI, crafting solutions that make a real impact. Whether it's delving into machine learning algorithms or diving deep into data analysis, I'm always eager to explore new horizons.
+<!--     I'm on a mission to unravel the mysteries of data and AI. I'm always eager to explore new horizons.
     <br><br>
-    My journey encompasses a blend of AI model development, data visualization, and problem-solving. I thrive in collaborative environments, where ideas flow freely, and innovation knows no bounds.
-    <br><br>
-    Let's connect, collaborate, and embark on this thrilling adventure together!
+<!--     My journey encompasses a blend of AI model development, data visualization, and problem-solving. I thrive in collaborative environments, where ideas flow freely, and innovation knows no bounds.
+    <br><br> --> -->
+    Let's connect!
 </p>
 
 ###
